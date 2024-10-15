@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Sign Up page </title>
+        <hr>
+        
+
+    </head>
+
+    <body>
+        <form>
+            <label>Name</label><br>
+            <input> <br>
+            <label>Email</label><br>
+            <input> <br>
+            <label>Password</label><br>
+            <input><br>
+            <label>Gender</label><br>
+            <input type="radio">
+            <label>Female</label>
+            <input type="radio">
+            <label>Male</label> <br>
+            <label>Hobbies</label> <br>
+            <input type="checkbox">
+            <label>Drawing</label>
+            <input type="checkbox">
+            <label>Writing</label>
+            <input type="checkbox">
+            <label>Coding</label>
+            <input type="checkbox">
+            <label>Playing</label>
+        </form>
+        
+        
+    </body>
+</html>
